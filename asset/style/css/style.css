@@ -4,8 +4,15 @@ section.hero{
 
 section.hero .text{
     font-weight: 800;
-    font-size: 35px;
-    line-height: 73px;
+    font-size: 30px;
+    line-height: 50px;
+    color: black;
+}
+
+section.hero .text .text1{
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 50px;
     color: black;
 }
 
