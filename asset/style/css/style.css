@@ -1,16 +1,16 @@
 section.hero{
-    padding: 60px 0;
+    padding: 40px 0;
 }
 
 section.hero .text{
     font-weight: 800;
-    font-size: 40px;
+    font-size: 35px;
     line-height: 73px;
     color: black;
 }
 
 .button{
-    padding-top: 69px;
+    padding-top: 25px;
 }
 
 .button .btn{
